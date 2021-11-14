@@ -19,4 +19,5 @@ In this lesson, we’ll be working with Bootstrap 4. To incorporate Bootstrap in
 
 There are also some optional JavaScript libraries if we want to add some interactivity to our website and these are inserted at the end of our <body> element. Check out Bootstrap’s Getting Started documentation for more insight. We’ve also added the optional JavaScript links in the code editor.
 
-If you’re ready, strap on those boots and let’s get started!
+## Take a look at the live example here:
+
